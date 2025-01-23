@@ -3,7 +3,7 @@ Hello, I'm Kazuki, a junior software engineer.
 
 ## GitHub Activity
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morikazu1119&theme=default) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morikazu1119&theme=onedark) 
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morikazu1119&layout=compact&show_icons=true&theme=onedark" />
