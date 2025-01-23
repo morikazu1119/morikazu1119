@@ -14,7 +14,7 @@ Hello, I'm Kazuki, a junior AI software engineer.
 
 ## Skills
 ### Programming Languages
-![](https://skillicons.dev/icons?i=py,cs,matlab,r)
+![](https://skillicons.dev/icons?i=py,matlab,r,cs,arduino,unity)
 
 ### OS and Hardware
 ![](https://skillicons.dev/icons?i=linux,ubuntu)
@@ -23,4 +23,4 @@ Hello, I'm Kazuki, a junior AI software engineer.
 ![](https://skillicons.dev/icons?i=pytorch)
 
 ### Tools
-![](https://skillicons.dev/icons?i=vscode,git,github,docker,)
+![](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,docker,)
