@@ -1,5 +1,5 @@
 ## Hi there
-Hello, I'm Kazuki, a junior software engineer.  
+Hello, I'm Kazuki, a junior AI software engineer.  
 
 ## GitHub Activity
 
