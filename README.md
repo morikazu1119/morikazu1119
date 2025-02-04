@@ -1,5 +1,5 @@
 ## Hi there
-Hello, I'm Kazuki, a junior AI software engineer.  
+Hello, I'm Kazuki, AI software engineer. I specialize in developing computer vision software, leveraging deep learning and image processing techniques to create innovative solutions.
 
 ## GitHub Activity
 
