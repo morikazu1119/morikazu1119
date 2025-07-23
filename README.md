@@ -23,14 +23,17 @@
 <td width="500" align="left">
 
 ### Hello, I'm Kazuki
-🤖 **AI software engineer**: develop AI software
-- 🧩Segmentation
-- 🎯Object Detection
-- 🧱3D Restoration
-- 🔀Multimodal Object Detection and Regression Pipeline
+🤖 **AI software engineer**: develop AI software  
+- 💼 Industry Projects
+  - 🧩 Segmentation
+  - 🎯 Object Detection
+  - 🧱 3D Restoration
+  - 🔀 Multimodal Object Detection and Regression Pipeline
+- 🧪 Personal Projects
+  - 💬 SFT and RLHF of LLM
+  - 👥 Multi-Agent System
 
-🌏 **Location**: Japan
-
+🌏 **Location**: Japan  
 🌟 **Interest**: Deeplearning, Computer Vision, Medical LLM etc
 
 </td>
