@@ -73,3 +73,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=morikazu1119&theme=onedark&column=7&title=-Stars,-Followers,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+## 🏁 Competitions
+
+<div align="center">
+
+| プラットフォーム | コンペ名 | タスク | 順位 | メダル | 備考 |
+|------------------|----------|--------|------|--------|---------|
+| SIGNATE | Axell AI Contest 2025 | 飲料パッケージの物体検出 | **19位** | 🥈 Silver | |
+
+</div>
