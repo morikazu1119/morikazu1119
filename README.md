@@ -27,7 +27,7 @@
 - 💼 Industry Projects
   - 🧩 Segmentation
   - 🎯 Object Detection
-  - 🧱 3D Restoration
+  - 🧱 3D Reconstruction
   - 🔀 Multimodal Object Detection and Regression Pipeline
 - 🧪 Personal Projects
   - 💬 SFT and RLHF of LLM
