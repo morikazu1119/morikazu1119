@@ -23,7 +23,7 @@
 <td width="500" align="left">
 
 ### Hello, I'm Kazuki
-🤖 **AI software engineer**: develop AI software  
+🤖 **AI Engineer**: Train and Finetuning AI and develop software
 - 💼 Industry Projects
   - 🧩 Segmentation
   - 🎯 Object Detection
@@ -34,7 +34,7 @@
   - 👥 Multi-Agent System
 
 🌏 **Location**: Japan  
-🌟 **Interest**: Deeplearning, Computer Vision, Medical LLM etc
+🌟 **Interest**: Deeplearning, Computer Vision, VLM etc
 
 </td>
 </tr>
